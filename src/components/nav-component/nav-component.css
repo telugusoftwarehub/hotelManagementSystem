@@ -1,0 +1,14 @@
+ul.links{
+    list-style-type: none;
+    display: flex;
+}
+
+ul.links li {
+    background-color: #F64C72;
+    padding: 10px;
+    margin-right: 5px;
+}
+ul.links li a {
+    color: #ffffff;
+    text-decoration: none;
+}

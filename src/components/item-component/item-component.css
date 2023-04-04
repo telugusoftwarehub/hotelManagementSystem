@@ -1,0 +1,20 @@
+.menuItems {
+    list-style-type: none;
+    display: flex;
+    margin-top: 10px;
+    flex-wrap: wrap;
+}
+
+.menuItems li {
+    background-color: #ffffff;
+    color: #000000;
+    margin-right: 5px;
+    margin-bottom: 5px;
+
+    padding: 10px;
+    text-align: left;
+}
+.menuItems li img{
+    width: 255px;
+    height: 200px;
+}
